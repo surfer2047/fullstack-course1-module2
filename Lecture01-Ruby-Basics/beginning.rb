@@ -1,4 +1,5 @@
 3.times { puts "Hello World" }
+3.times do puts "Hello world" end # print Hello world 3 times
 
 # this is a comment 
 puts 5 # so is this
